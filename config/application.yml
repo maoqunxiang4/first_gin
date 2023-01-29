@@ -1,0 +1,12 @@
+server:
+  port: 8081
+datasource:
+  username: root
+  password: 123456
+  host: localhost:3306
+  dbName: db
+  charset: utf8
+  parseTime: True
+  loc: Local
+
+#config包: github.com/spf13/viper
